@@ -20,7 +20,7 @@ A simple Rock-Paper-Scissors game built using HTML, CSS, and JavaScript. This pr
 ---
 
 ## 🖥️ Demo
-[Live Demo](#)
+[Live Demo](https://tj330.github.io/Rock-Paper-Scissors/)
 
 ---
 
